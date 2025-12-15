@@ -8,3 +8,5 @@
    `npm run dev`
 4.Mã QR Để test : 
 [kiencode.io.vn.zip](https://github.com/user-attachments/files/24170521/kiencode.io.vn.zip)
+Trải Nghiệm 
+https://oder2025.netlify.app/
